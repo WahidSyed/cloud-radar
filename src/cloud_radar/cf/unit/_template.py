@@ -23,7 +23,7 @@ class Template:
     Partition: str = "aws"  # Other regions not implemented
     Region: str = "us-east-1"
     StackId: str = ""  # Not yet implemented
-    StackName: str = ""  # Not yet implemented
+    StackName: str = "Test1"  # Not yet implemented
     URLSuffix: str = "amazonaws.com"  # Other regions not implemented
 
     def __init__(

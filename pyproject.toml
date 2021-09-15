@@ -3,9 +3,9 @@ name = "cloud-radar"
 version = "0.0.0"
 description = "Run functional tests on cloudformation stacks."
 readme = "README.md"
-authors = ["Levi Blaney <shadycuz@gmail.com>"]
+authors = ["Wahid Hussain Syed <wahidsyed.hussain@gmail.com>"]
 license = "Apache-2.0"
-repository = "https://github.com/DontShaveTheYak/cloud-radar"
+repository = "https://github.com/WahidSyed/cloud-radar"
 keywords = ["aws", "cloudformation", "cloud-radar", "testing", "taskcat", "cloud", "radar"]
 classifiers = [
   "Development Status :: 2 - Pre-Alpha",
